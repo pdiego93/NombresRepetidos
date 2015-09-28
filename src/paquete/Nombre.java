@@ -6,6 +6,7 @@ public class Nombre {
 	
 	public Nombre(String nombre){
 		nom = nombre;
+		cont = 1;
 	}
 	
 	public String getNombre(){
