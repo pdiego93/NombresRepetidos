@@ -61,8 +61,8 @@ public class ContadorCargador {
 		return nom;
 }
 	
-	public List<Nombre> obtenerMaxRepetidos(){
+	/*public List<Nombre> obtenerMaxRepetidos(){
 		
-	}
+	}*/
 	
 }
